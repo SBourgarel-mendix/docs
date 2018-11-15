@@ -115,7 +115,7 @@ To embed the microflow with an exclusive split (the attribute of the Boolean typ
 
 Congratulations! Now when the user clicks **Place order**, only the customers who are not blocked will be able to proceed. If the user is blocked, he will get an error message. 
 
-You can publish and view your app. For more information, see [How to Publish and View Your App](../tutorials/start-with-a-blank-app-3-publish-and-view-your-app).
+You can publish and view your app. For more information, see [Deployment Overview in the Web Modeler](/refguide/web-modeler/deployment-wm).
 
 
 
