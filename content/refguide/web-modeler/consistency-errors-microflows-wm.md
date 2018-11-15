@@ -68,4 +68,4 @@ Some consistency errors may be connected with settings in the Desktop Modeler. T
 * [Page Editor Consistency Errors in the Web Modeler](consistency-errors-pages-wm)
 * [Navigation Consistency Errors in the Web Modeler](consistency-errors-navigation-wm)
 * [Checks Overview in the Web Modeler](checks-wm)
-* [How to Publish and View Your App](../../howto/tutorials/start-with-a-blank-app-3-publish-and-view-your-app)
+* [Deployment Overview in the Web Modeler](deployment-wm)
